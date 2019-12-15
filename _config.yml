@@ -1,1 +1,6 @@
-theme: jekyll-theme-architect
+# -----------------------------
+# itzecode.github.io 
+# theme settings
+# -----------------------------
+markdown: kramdown
+theme: slate
